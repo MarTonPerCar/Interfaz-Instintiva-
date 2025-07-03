@@ -98,7 +98,7 @@ Una vez todo está activado los controles siguen un mapeo bastante intuitivo
 4. **Cabeza**: Esta simplemente genera un movimiento que es el pause de la aplicación en base al movimiento de la naziz hacia abajo. Cuando está pulsado, ninguna otra opción será registrada.
 
 <p align="center">
-  <img src="IMG_ReadME/Captura3.PNG" alt="Set de movimiento" width="800"/>
+  <img src="IMG_ReadME/Captura3.png" alt="Set de movimiento" width="800"/>
 </p>
 
 Si se quiere ver el proyecto a un nivel más detallado, se recomienda el Informe presentado en este mismo repositario donde se añade toda la posible información faltante, tales como el planteamiento del funcionamiento del proyecto, justificación del proyecto, y apartados extras.   
